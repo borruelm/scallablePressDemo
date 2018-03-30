@@ -1,0 +1,55 @@
+.main-container{
+  background-color: #ffd9b3;
+  color:#663300;
+  margin: auto;
+  width: 650px;
+  border: 3px solid #808080;
+  border-radius: 10px;
+}
+.mainMenu{
+  margin-bottom: 25px;
+}
+
+ul.a {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li {
+    float: left;
+    padding-right: 25px;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-decoration: none;
+}
+
+#countDownDiv{
+  background-color: grey;
+  color:blue;
+
+}
+#contAbout{
+  background-color: #838383;
+  color: #343434;
+  border-radius: 5px;
+}
+
+.aboutContent{
+  background-color: #343434;
+  color: #838383;
+}
+
+#myTimeContainer{
+  width: 95%;
+  border:3px solid  #80ffbf;
+  border-radius: 15px;
+  margin: auto;
+  font-size: 3em;
+  color: #535353;
+  background-color:  #ffffe6;
+  text-align: center;
+}
