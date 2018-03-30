@@ -9,5 +9,5 @@ Technical test for Front End Developer ReactJS, NodeJS, WebPack, JS and CSS Tech
 1. execute nom install
 
 ## run app
-execute *npm run dev
-go to your browser  *localhost:9000
+1. execute *npm run dev*
+1. go to your browser  *localhost:9000*
